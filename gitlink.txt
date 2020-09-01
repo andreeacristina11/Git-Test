@@ -1,0 +1,7 @@
+git init git config --global user.name "andreeacristina11"
+git config --global user.email "andreea_cristyna11@yaho.com" 
+git status 
+git add Temav3.java 
+git commit -m "Materiale Training 01.08.2020" 
+git remote add origin "remoteRepository" 
+git push -u origin master "linkul din browser"
